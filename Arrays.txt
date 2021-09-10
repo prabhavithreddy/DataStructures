@@ -1,0 +1,6 @@
+Data Structure
+---------------
+
+1. Stores similar data types
+2. In Contiguous memory location
+3. Position can be calculated using offset
