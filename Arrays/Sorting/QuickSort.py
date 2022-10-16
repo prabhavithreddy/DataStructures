@@ -1,4 +1,4 @@
-import numpy as np
+#import numpy as np
 
 # numbers = np.random.randint(100, size=(10,))
 numbers = [22, 6, 79, 90, 95, 70, 51, 50, 80, 76, 94]

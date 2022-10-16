@@ -15,6 +15,7 @@ class MaxHeap:
         if largest != index:
             self.heap[index], self.heap[largest] = self.heap[largest], self.heap[index]
             self.heapify(n, largest)
+
     def insert(self, key):
         n = len(self.heap)
         if n == 0:
